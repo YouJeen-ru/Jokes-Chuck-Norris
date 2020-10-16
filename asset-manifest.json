@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Jokes-Chuck-Norris/static/css/main.9198eaa0.chunk.css",
+    "main.js": "/Jokes-Chuck-Norris/static/js/main.fb9a1a3d.chunk.js",
+    "main.js.map": "/Jokes-Chuck-Norris/static/js/main.fb9a1a3d.chunk.js.map",
+    "runtime-main.js": "/Jokes-Chuck-Norris/static/js/runtime-main.1ba6868e.js",
+    "runtime-main.js.map": "/Jokes-Chuck-Norris/static/js/runtime-main.1ba6868e.js.map",
+    "static/js/2.7b21890b.chunk.js": "/Jokes-Chuck-Norris/static/js/2.7b21890b.chunk.js",
+    "static/js/2.7b21890b.chunk.js.map": "/Jokes-Chuck-Norris/static/js/2.7b21890b.chunk.js.map",
+    "index.html": "/Jokes-Chuck-Norris/index.html",
+    "precache-manifest.67837c76be1c94d45089c506d7f4e245.js": "/Jokes-Chuck-Norris/precache-manifest.67837c76be1c94d45089c506d7f4e245.js",
+    "service-worker.js": "/Jokes-Chuck-Norris/service-worker.js",
+    "static/css/main.9198eaa0.chunk.css.map": "/Jokes-Chuck-Norris/static/css/main.9198eaa0.chunk.css.map",
+    "static/js/2.7b21890b.chunk.js.LICENSE.txt": "/Jokes-Chuck-Norris/static/js/2.7b21890b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ba6868e.js",
+    "static/js/2.7b21890b.chunk.js",
+    "static/css/main.9198eaa0.chunk.css",
+    "static/js/main.fb9a1a3d.chunk.js"
+  ]
+}
